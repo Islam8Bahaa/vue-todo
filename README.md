@@ -1,7 +1,7 @@
 # vue-todo: Laravel Project with Docker or XAMPP
 
 ## Introduction
-This project is a simple To-Do list application built with Laravel and Vue.js, containerized using Docker, or set up with XAMPP. The application supports authentication, task management (add, edit, delete), categories, RESTful API, pagination, filtering, and search. The front-end is styled with basic UI components.
+This project is a simple To-Do list application built with Laravel and Vue.js, containerized using Docker, or set up with XAMPP. The application supports authentication, task management (add, edit, delete), RESTful API, pagination, filtering, and search. The front-end is styled with basic UI components.
 
 ## Prerequisites
 Before starting, make sure you have the following installed:
